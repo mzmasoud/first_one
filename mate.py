@@ -10,7 +10,7 @@ mate = turtle.Turtle()
 mate.shape("arrow")
 mate.pensize(1)
 mate.forward(50)
-mate.speed(0)
+mate.speed(2)
 mate.left(90)
 mate.forward(50)
 
